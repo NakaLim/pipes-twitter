@@ -11,7 +11,7 @@ In this lab, you will use the pipe to do basic analysis of a large twitter datas
 
 ## Part -1: Setup
 
-You will need a partner to complete this lab.
+Youu will need a partner to complete this lab.
 
 Create a new github repo.
 Then put the contents of this lab into your new repo:
