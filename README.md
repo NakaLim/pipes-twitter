@@ -11,7 +11,7 @@ In this lab, you will use the pipe to do basic analysis of a large twitter datas
 
 ## Part -1: Setup
 
-You will need a partner to complete this lab.
+Youu will need a partner to complete this lab.
 
 Create a new github repo.
 Then put the contents of this lab into your new repo:
@@ -126,8 +126,8 @@ In this case, we'll need to use `grep` to filter the output of `ls` to keep only
 > Write a one line shell command that returns the number of days worth of data (i.e. the number of zip files) in the twitter dataset.
 > Edit the code block below with your command and its output
 > ```
-> $ #place command here
-> place output here
+> $ ls '/data/Twitter dataset' | grep 'zip$' | wc -l
+> 1887
 > ```
 
 ## Part 2: Counting the Tweets
